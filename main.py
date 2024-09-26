@@ -11,4 +11,4 @@ while True:
     
 cv.destroyAllWindows()
 cap.release()
-#hilmy ganteng 123
+#halo
