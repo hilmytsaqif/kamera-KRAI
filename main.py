@@ -11,4 +11,3 @@ while True:
     
 cv.destroyAllWindows()
 cap.release()
-#halo
